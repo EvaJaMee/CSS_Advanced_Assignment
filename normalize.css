@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* this can also be placed in the styles.css file directly instead of a separate css file.*/

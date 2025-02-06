@@ -22,6 +22,9 @@ body {
   margin: 0 auto;
 }
 
+/* some of the below can be combined for better readability and less clutter, but it was easier to separate them.
+Suggestions to properly combine and adjust is appreciated. */
+
 img {
   display: block;
 }
@@ -30,6 +33,8 @@ header {
   margin-bottom: 6rem;
 }
 
+/* Due to my screen size being bigger, the header img is smaller on a desktop screen as compared to the example image.
+Mobile view is as the example image. */
 header img {
   height: 3.2rem;
 }

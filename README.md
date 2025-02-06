@@ -1,3 +1,6 @@
+NOTE FOR MENTOR REVIEWING: Feedback can be done in English and/or Dutch! No preference!
+
+
 # Frontend Mentor - Huddle landing page with single introductory section
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
